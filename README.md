@@ -1,1 +1,1 @@
-# Machine Learning Project for Daimont Price Pridiction
+# Machine Learning Project for Daimond Price Pridiction
