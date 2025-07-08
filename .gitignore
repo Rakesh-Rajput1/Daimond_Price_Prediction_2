@@ -1,5 +1,5 @@
 # Python
-__pycache__/
+
 *.pyc
 *.pyo
 *.pyd
@@ -7,6 +7,43 @@ __pycache__/
 *.egg-info/
 dist/
 build/
+
+# igoner virtual file to git hub add
 .env
 venv/
+env/
+
+# VS Code or IDE-specific settings
+.vscode/
+.idea/
+
+# ingore system file
+__pycache__/
+*.pyc
 .DS_Store
+Thumbs.db
+
+
+# Logs and debug files
+logs/
+*.log
+
+
+# Model artifacts and pickles
+*.pkl
+artifacts/
+models/
+checkpoints/
+
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
